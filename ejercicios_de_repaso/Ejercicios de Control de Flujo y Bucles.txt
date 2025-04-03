@@ -1,0 +1,41 @@
+Ejercicios de Control de Flujo y Bucles en Python
+Ejercicio 1: Contar Letras en una Palabra
+
+Problema:
+Solicitar al usuario una palabra y contar cuántas letras tiene.
+Ejercicio 2: Contar Vocales en un String
+
+Problema:
+Pedir una frase al usuario y contar cuántas vocales (a, e, i, o, u) tiene.
+Ejercicio 3: Buscar una Palabra en una Lista
+
+Problema:
+Crear una lista de palabras predefinida y pedir al usuario una palabra. Indicar si está en la lista o no.
+Ejercicio 4: Contar Números Pares en una Lista
+
+Problema:
+Solicitar 5 números al usuario, almacenarlos en una lista y contar cuántos son pares.
+Ejercicio 5: Filtrar Palabras Cortas y Largas
+
+Problema:
+Pedir al usuario 5 palabras y separar las que tienen más de 5 letras y las que tienen menos o igual.
+Ejercicio 6: Clasificar Números en Positivos y Negativos
+
+Problema:
+Pedir 6 números al usuario y separarlos en positivos y negativos.
+Ejercicio 7: Contar Ocurrencias en una Lista
+
+Problema:
+Pedir al usuario 7 números y contar cuántas veces aparece cada uno.
+Ejercicio 8: Diccionario de Notas y Promedio
+
+Problema:
+Pedir 3 nombres de estudiantes y sus notas, guardarlas en un diccionario y calcular el promedio.
+Ejercicio 9: Encontrar la Palabra Más Larga
+
+Problema:
+Pedir al usuario una lista de 4 palabras y encontrar la más larga.
+Ejercicio 10: Clasificación de Edades
+
+Problema:
+Solicitar 5 edades y clasificarlas en menores de edad (0-17), adultos (18-64) y adultos mayores (65+)
